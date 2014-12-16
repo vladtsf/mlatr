@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'nokogiri', '~> 1.5'
 
   s.add_development_dependency 'rspec'
+  s.add_development_dependency 'exifr'
 end
